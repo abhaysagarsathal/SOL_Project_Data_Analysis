@@ -214,3 +214,4 @@ From the analysis, several general insights emerged:
 
 ### Closing Thoughts
 This project significantly strengthened my SQL proficiency while offering meaningful insights into the data analyst job market. The analysis provides a clear framework for prioritizing both skill development and job search strategies.  Overall, this exploration underscores the critical importance of continuous learning, upskilling, and adapting to evolving trends within the data analytics domain.
+
